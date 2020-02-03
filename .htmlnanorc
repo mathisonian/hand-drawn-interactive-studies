@@ -1,0 +1,4 @@
+// .htmlnanorc
+{
+  "minifySvg": false,
+}
